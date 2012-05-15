@@ -1,0 +1,15 @@
+# ignore all pyc files
+*.pyc
+*.pyo
+
+# VIM files
+*~
+*.swp
+
+# Test coverage
+.coverage
+
+# OSX Stuff
+.DS_Store
+
+
